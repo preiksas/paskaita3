@@ -1,0 +1,55 @@
+ h1 {
+     color: aqua;
+     font-size: 60px;
+ }
+
+ h2 {
+     color: peru;
+     background-color: azure
+ }
+
+ /* komentarai */
+
+ p {
+     font-size: 18px;
+     line-height: 24px;
+     font-family: font-family: 'Open Sans', sans-serif;
+ }
+
+ .text_bold {
+     font-weight: 600;
+ }
+
+ .responsive {
+     width: 50%
+ }
+span{
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.responsive span{
+    color: red;
+}
+h3{
+    text-transform: capitalize;
+    font-family: 'Libre Barcode 128 Text', cursive;
+}
+h5{
+    font-size: 24px;
+    background-color: mediumpurple;
+    color: white;
+    width: 120px;
+    text-align: center;
+    margin: 50px 0 25px 100px;
+    border: 3px solid red;
+    border-radius: 8px;
+    padding: 30px;
+}
+h6{
+    font-size: 24px;
+    background-color: orange;
+    width: 120px;
+    text-align: center;
+    margin: auto;
+    border-radius: 8px;
+}
